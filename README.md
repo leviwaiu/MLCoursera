@@ -1,14 +1,6 @@
-machine-learning-coursera
-=========================
-Coursera machine learning course resources.
+Coursera Machine Learning
+===================
 
-# Text book:
-Bayesian Reasoning and Machine Learning
-http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf
+Assignemnts and Solutions given to Andrew Ng's Machine Learning course in Coursera. Original solutions are also given as Coursera are increasingly clamping down on its quality and refuses to give them sometimes.
 
-# Video lectures:
-https://class.coursera.org/ml/lecture/preview
-
-# Acknowledgement:
-Problem set and other information compiled from another github repo by phyous:
-https://github.com/1094401996/machine-learning-coursera
+Hope you find it useful.
