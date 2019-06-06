@@ -18,12 +18,11 @@ for iter = 1:num_iters
     %
 
 
-
-
-
-
-
-
+    new = zeros(length(theta),1);
+    for t = 1:length(theta)
+        new(t) = theta(t) - alpha / m * sum(((X * theta) - y) .* X(:, t));
+    end
+    theta = new;
 
 
 
